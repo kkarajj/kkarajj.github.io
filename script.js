@@ -1,4 +1,4 @@
-function downloadData() {
+function filterData() {
   event.preventDefault();
   var startdate = document.getElementById("startdate").value;
   var startdate = document.getElementById("enddate").value;
